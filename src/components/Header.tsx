@@ -52,13 +52,13 @@ const Header = () => {
 
         <div className="flex items-center gap-4">
           <div className="hidden lg:flex items-center gap-4 text-sm text-muted-foreground">
-            <div className="flex items-center gap-1">
+          <div className="flex items-center gap-1">
               <Phone className="h-4 w-4" />
-              <span>+91 98765 43210</span>
+              <span>+918116352008</span>
             </div>
             <div className="flex items-center gap-1">
               <Mail className="h-4 w-4" />
-              <span>info@photostudio.com</span>
+              <span>arghajitbera78922@gmail.com</span>
             </div>
           </div>
           <Button 
