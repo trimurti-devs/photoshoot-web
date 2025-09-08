@@ -13,7 +13,7 @@ const Header = () => {
         <div className="flex items-center gap-2">
           <Camera className="h-8 w-8 text-primary" />
           <span className="text-2xl font-bold bg-gradient-text bg-clip-text text-transparent">
-            PhotoStudio
+            Swapna Puron
           </span>
         </div>
         
